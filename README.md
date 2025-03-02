@@ -34,15 +34,15 @@ I specialize in **Artificial Intelligence & Machine Learning** with hands-on **D
 ### 📰 **Fake News Analyzer**  
 📌 **Tech Stack:** Pandas, NumPy, Scikit-learn  
 ✅ **Accuracy:** 94%  
-🔗 **GitHub Repo:** [View Project](https://github.com/your-fake-news-repo)  
+🔗 **GitHub Repo:** [View Project](https://github.com/devAbdelrahman-Elgewily/ML-Projects)  
 
 ### 🎮 **Tic-Tac-Toe Game**  
 📌 **Tech Stack:** Java, Swing  
-🔗 **GitHub Repo:** [View Project](https://github.com/your-tic-tac-toe-repo)  
+🔗 **GitHub Repo:** [View Project](https://github.com/devAbdelrahman-Elgewily/Tic-Tac-Toe-Game)  
 
 ### 📊 **Data Analysis Course**  
 📌 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
-🔗 **GitHub Repo:** [View Project](https://github.com/your-data-analysis-repo)  
+🔗 **GitHub Repo:** [View Project](https://github.com/devAbdelrahman-Elgewily/DEPI-Assignments-)  
 
 ---
 
